@@ -1,7 +1,7 @@
 class balls {
     constructor(x, y) {
         var options ={
-            restitution:0.8,
+            restitution:0.5,
         }
         this.r=8;
       
